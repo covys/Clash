@@ -1,0 +1,24 @@
+payload:
+  # 全球直连
+  
+  # 内容：自定义
+  - DOMAIN-SUFFIX,covy.cloud # 搬瓦工
+  - DOMAIN-SUFFIX,jojoread.com # 叫叫绘本
+  - DOMAIN,gtm-cn-8ed2l0y443p.gtm-a3b4.com # 叫叫绘本
+
+  # 内容：安卓电视
+  - DOMAIN-SUFFIX,xiguapic.xyz
+  - DOMAIN-SUFFIX,lzzyimg.com
+  - DOMAIN-SUFFIX,mgtv.com
+  - DOMAIN-SUFFIX,zxzj.site
+  - DOMAIN-SUFFIX,mervod.com
+  - DOMAIN-SUFFIX,tutugua.com
+  - DOMAIN-SUFFIX,tutugua.xn
+  - DOMAIN-SUFFIX,xiaoluys.xn
+  - DOMAIN-SUFFIX,huamaotv.com
+  - DOMAIN-SUFFIX,xiaoluys.me
+  - DOMAIN-SUFFIX,1080.love
+  - DOMAIN-SUFFIX,lezhutv.com
+  - DOMAIN-SUFFIX,dadagui.me
+  - DOMAIN-SUFFIX,ymck.pro
+  - DOMAIN-SUFFIX,007ts.me
