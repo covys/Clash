@@ -5,3 +5,5 @@ payload:
   - DOMAIN-SUFFIX,behance.net # PS照片墙
   - DOMAIN-SUFFIX,linktr.ee # 照片墙
   - DOMAIN-SUFFIX,bing.com # 必应
+  - DOMAIN-SUFFIX,bandwagonhost.com #搬瓦工
+  - DOMAIN-SUFFIX,kiwivm.64clouds.com #搬瓦工
