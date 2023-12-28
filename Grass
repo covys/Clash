@@ -1,0 +1,4 @@
+payload:
+  # 节点选择
+
+  - DOMAIN-SUFFIX,getgrass.io
