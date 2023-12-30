@@ -2,10 +2,3 @@ payload:
   # 节点选择
 
   - DOMAIN-SUFFIX,getgrass.io
-  - DOMAIN-SUFFIX,bnbchain.org
-  - DOMAIN-SUFFIX,ipify.org
-  - DOMAIN-SUFFIX,infura.io
-  - DOMAIN-SUFFIX,heapanalytics.com
-  - DOMAIN-SUFFIX,bigdatacloud.net
-  - DOMAIN-SUFFIX,wynd.network
-  - DOMAIN-SUFFIX,ip.sb
