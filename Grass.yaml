@@ -5,3 +5,7 @@ payload:
   - DOMAIN-SUFFIX,infura.io
   - DOMAIN-SUFFIX,bnbchain.org
   - DOMAIN-SUFFIX,wynd.network
+  - DOMAIN-SUFFIX,heapanalytics.com
+  - DOMAIN-SUFFIX,bigdatacloud.net
+  - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-SUFFIX,ip.sb
