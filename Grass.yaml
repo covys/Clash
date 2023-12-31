@@ -7,5 +7,5 @@ payload:
   - DOMAIN-SUFFIX,wynd.network
   - DOMAIN-SUFFIX,heapanalytics.com
   - DOMAIN-SUFFIX,bigdatacloud.net
-  #- DOMAIN-SUFFIX,ipify.org
-  #- DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-SUFFIX,ip.sb
