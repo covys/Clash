@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,bing.com # 必应
   - DOMAIN-SUFFIX,bandwagonhost.com #搬瓦工
   - DOMAIN-SUFFIX,kiwivm.64clouds.com #搬瓦工
+  - DOMAIN-SUFFIX,cdbzyz.com #CDB资源站
