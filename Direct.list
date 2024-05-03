@@ -1,8 +1,9 @@
 # NAME: Direct
-# 内容：自定义
-DOMAIN-SUFFIX,covy.cloud # 搬瓦工
-DOMAIN-SUFFIX,jojoread.com # 叫叫绘本
-DOMAIN,gtm-cn-8ed2l0y443p.gtm-a3b4.com # 叫叫绘本
+# 搬瓦工
+DOMAIN-SUFFIX,covy.cloud
+# 叫叫绘本
+DOMAIN-SUFFIX,jojoread.com
+DOMAIN,gtm-cn-8ed2l0y443p.gtm-a3b4.com
 # 内容：安卓电视
 DOMAIN-SUFFIX,xiguapic.xyz
 DOMAIN-SUFFIX,lzzyimg.com
