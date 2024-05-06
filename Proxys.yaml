@@ -1,4 +1,4 @@
-payload: # 全球加速
+payload: # Proxys 全球加速
 
 # MMyun小站
   - DOMAIN-SUFFIX,meimeiyun.top
