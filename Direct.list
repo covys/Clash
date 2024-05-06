@@ -1,13 +1,9 @@
 # NAME: Direct
 # 搬瓦工
 DOMAIN-SUFFIX,covy.cloud
-# 叫叫绘本
-DOMAIN-SUFFIX,jojoread.com
-DOMAIN,gtm-cn-8ed2l0y443p.gtm-a3b4.com
 # 内容：安卓电视
 DOMAIN-SUFFIX,xiguapic.xyz
 DOMAIN-SUFFIX,lzzyimg.com
-DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,zxzj.site
 DOMAIN-SUFFIX,mervod.com
 DOMAIN-SUFFIX,tutugua.com
@@ -18,5 +14,4 @@ DOMAIN-SUFFIX,xiaoluys.me
 DOMAIN-SUFFIX,1080.love
 DOMAIN-SUFFIX,lezhutv.com
 DOMAIN-SUFFIX,dadagui.me
-DOMAIN-SUFFIX,ymck.pro
 DOMAIN-SUFFIX,007ts.me
