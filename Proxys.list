@@ -10,5 +10,7 @@ DOMAIN-SUFFIX,bandwagonhost.com
 DOMAIN-SUFFIX,kiwivm.64clouds.com
 # CDB资源站
 DOMAIN-SUFFIX,cdbzyz.com
-# 派币DOMAIN-SUFFIX,minepi.com
-# 灵魂撸币DOMAIN-SUFFIX,carv.io
+# 派币
+DOMAIN-SUFFIX,minepi.com
+# 灵魂撸币
+DOMAIN-SUFFIX,carv.io
